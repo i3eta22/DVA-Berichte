@@ -1,3 +1,11 @@
 test1
+<<<<<<< .mine
 test2
-test3
+
+
+
+
+
+test4=======
+test2
+test3>>>>>>> .r4
